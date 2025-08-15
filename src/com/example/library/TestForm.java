@@ -5,6 +5,7 @@ import javax.swing.*;
 public class TestForm extends JFrame {
     private JPanel contentPane;
     private JTextField bookNameField;
+    private JButton enterButton;
     private JTextField authorNameField;
     private JComboBox genreComboBox;
     private JCheckBox isTakenCheckBox;
